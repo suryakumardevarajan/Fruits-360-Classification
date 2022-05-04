@@ -15,3 +15,7 @@ Image size: 100x100 pixels.
 
 train_path = '../dataset/fruits-360-original-size/Training'
 valid_path = '../dataset/fruits-360-original-size/Validation'
+
+Classification Models Used: VGG, Resnet
+
+
