@@ -19,4 +19,12 @@ valid_path = '../dataset/fruits-360-original-size/Validation'
 Inspired by the udemy course: LazyProgrammer
 Classification Models Used: VGG, Resnet
 
+# Running
+
+
+1. Execute models and analyses:
+
+'jupyter notebook .'
+
+
 
